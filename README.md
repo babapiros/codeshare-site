@@ -1,6 +1,6 @@
 # Kod Paylaşım Sitesi
 
-Bu repository 55 star aldığında geliştirilmiş ve düzenlenmiş veriyonu paylaşılacaktır.
+Bu repository 55 star aldığında geliştirilmiş ve düzenlenmiş veriyonu paylaşıjlacaktır.
 
 
 ## Preview 
